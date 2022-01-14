@@ -15,3 +15,7 @@ V2.0.0:
  A. Armor slot
  B. Saddle slot
 7. Quartz
+
+V3.0.0
+1. Food
+2. Hearts
