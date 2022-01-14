@@ -5,6 +5,7 @@ V1.0.0:
 
 V1.X.X
 1. Food
+2. Quartz
 
 V2.0.0: 
 1. Leather Horse Armor
@@ -17,7 +18,6 @@ V2.0.0:
 6. Horse
  A. Armor slot
  B. Saddle slot
-7. Quartz
 
 V3.0.0
 1. Hearts
