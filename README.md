@@ -1,2 +1,16 @@
 # Pride-16x
-A default based MCPE texture pack based on the pride flags. I will update this texture pack every pride month.
+Road Map
+V1.0.0: 
+1. Release
+
+V2.0.0: 
+1. Leather Horse Armor
+2. Turtle Helmet
+3. Elytra
+4. Trident
+5. Wool
+ A. Carpet(llama)
+ B. Capet Slot(llama)
+6. Horse
+ A. Armor slot
+ B. Saddle slot
