@@ -21,4 +21,6 @@ V2.0.0:
 
 V3.0.0
 1. Hearts
+2. Sky(rainbow)
 3. Stone variants
+4. Break Animation
