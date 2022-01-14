@@ -5,7 +5,7 @@ V1.0.0:
 
 V1.X.X
 1. Food
-2. Quartz
+2. Fire
 
 V2.0.0: 
 1. Leather Horse Armor
