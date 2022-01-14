@@ -14,3 +14,4 @@ V2.0.0:
 6. Horse
  A. Armor slot
  B. Saddle slot
+7. Quartz
