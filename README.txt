@@ -26,3 +26,11 @@ V3.0.0
 4. Break Animation
 5. Bows
 6. Arrows
+
+V4.0.0
+1. Iron related items(i.e. chains)
+2. Gold related items(i.e. Gold parts of piglins)
+3. Diamond related items
+4. Netherite related items
+5. Totem
+6. Villager Level(pendents/badges)
