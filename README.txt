@@ -3,6 +3,9 @@ Road Map
 V1.0.0: 
 1. Release
 
+V1.X.X
+1. Food
+
 V2.0.0: 
 1. Leather Horse Armor
 2. Turtle Helmet
@@ -17,6 +20,5 @@ V2.0.0:
 7. Quartz
 
 V3.0.0
-1. Food
-2. Hearts
+1. Hearts
 3. Stone variants
