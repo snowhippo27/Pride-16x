@@ -24,3 +24,5 @@ V3.0.0
 2. Sky(rainbow)
 3. Stone variants
 4. Break Animation
+5. Bows
+6. Arrows
