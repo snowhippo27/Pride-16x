@@ -19,3 +19,4 @@ V2.0.0:
 V3.0.0
 1. Food
 2. Hearts
+3. Stone variants
