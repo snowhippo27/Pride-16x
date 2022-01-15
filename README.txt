@@ -11,6 +11,7 @@ V1.X.X
 5. Cross bow
 6. Arrows
 7. Flint and steel
+8. Snowball
 
 V2.0.0: 
 1. Leather Horse Armor
