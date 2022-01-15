@@ -6,6 +6,11 @@ V1.0.0:
 V1.X.X
 1. Food
 2. Fire
+3. Bow
+4. Fishing rod
+5. Cross bow
+6. Arrows
+7. Flint and steel
 
 V2.0.0: 
 1. Leather Horse Armor
